@@ -4,6 +4,7 @@
 
 - 💻 I'm a software engineer!
 - 💡 I'm proficient in React-Redux, JavaScript, Ruby on Rails
+- ✍ Connect with others through quality content on [Quokka](https://quokka-yq9w.onrender.com/)
 - ❤️ I am proud of my Petfinder clone, [Pawdar](https://pawdar.onrender.com/)
 - 🎮 See how long you can survive in my game, [DINO DODGERS](https://chadfitz.github.io/DINO-DODGERS/)
 - 👯 I’m looking to collaborate on new coding projects

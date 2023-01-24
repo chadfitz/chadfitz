@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**chadfitz/chadfitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" height="200" />
 
-Here are some ideas to get you started:
+- 💻 I'm a software engineer!
+- 💡 I'm proficient in React-Redux, JavaScript, Ruby on Rails
+- ❤️ I am proud of my Petfinder clone, [Pawdar](https://pawdar.onrender.com/)
+- 🎮 See how long you can survive in my game, [DINO DODGERS](https://chadfitz.github.io/DINO-DODGERS/)
+- 👯 I’m looking to collaborate on new coding projects
+- 🔗 Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/chad-fitzgerald-956981ab/)
+- 📫 Reach me at my email: [fitzchad@gmail.com](mailto:fitzchad@gmail.com) 
+- ⚡ Fun fact: I love board games and know a lot about animals!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadfitz)](https://github.com/anuraghazra/github-readme-stats)
+[![Chad's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadfitz)](https://github.com/anuraghazra/github-readme-stats)

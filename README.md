@@ -13,4 +13,3 @@
 - ⚡ Fun fact: I love board games and know a lot about animals!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadfitz)](https://github.com/anuraghazra/github-readme-stats)
-[![Chad's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadfitz)](https://github.com/anuraghazra/github-readme-stats)

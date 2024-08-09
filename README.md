@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" height="200" />
 
 - 💻 I'm a software engineer!
-- 💡 I'm proficient in React-Redux, JavaScript, Ruby on Rails
+- 💡 I'm proficient in Java, JavaScript, and React
 - ✍ Connect with others through quality content on [Quokka](https://quokka-yq9w.onrender.com/)
 - ❤️ I am proud of my Petfinder clone, [Pawdar](https://pawdar.onrender.com/)
 - 🎮 See how long you can survive in my game, [DINO DODGERS](https://chadfitz.github.io/DINO-DODGERS/)
@@ -12,4 +12,4 @@
 - 📫 Reach me at my email: [fitzchad@gmail.com](mailto:fitzchad@gmail.com) 
 - ⚡ Fun fact: I love board games and know a lot about animals!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadfitz)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadfitz)](https://github.com/anuraghazra/github-readme-stats) -->
